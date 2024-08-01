@@ -1,0 +1,77 @@
+*{
+ 
+}
+h1{
+    background-color: aqua; border: 2px solid red;border-radius:35px ;
+    text-align: center;
+}
+
+span{
+    background-color: yellow;
+}
+
+p{
+    text-align: left;
+}
+
+h3{
+    color: green;
+    text-align: left;
+}
+
+.sinf{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+
+.fan{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+.uch{
+    text-align: left;
+}
+
+.fen{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+
+table,tr,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 3px 110px;
+}
+
+.soatini{
+    background-color: green;
+    color: white;
+}
+
+
+.soat{
+    background-color: blue;
+    color: white;
+}
+
+
+td{
+    background-color: red;
+    color: white;
+}
+
+.non{
+    background-color: black;
+    color: white;
+}
+
+.moon{
+    background-color: red;
+    color: white;
+}
